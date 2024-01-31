@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm nixkita</h1>
 <h3 align="center">A passionate security student from VA, Italy</h3>
 
-- 🔭 I’m currently working on [circom-schnorr-verify](https://github.com/lyylaaa/circom-schnorr-verify)
+- 🔭 I’m currently working on [eSportCSGO](https://github.com/nixkitax/eSportCSGO)
 
-- 🌱 I’m currently learning **Schnorr/ECDSA things**
+- 🌱 I’m currently learning **Next.js Framework**
 
 - 💬 Ask me **anything related to my projects**
 
