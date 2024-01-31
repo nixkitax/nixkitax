@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nicol</h1>
+<h1 align="center">Hi 👋, I'm nixkita</h1>
 <h3 align="center">A passionate security student from VA, Italy</h3>
 
 - 🔭 I’m currently working on [circom-schnorr-verify](https://github.com/lyylaaa/circom-schnorr-verify)
