@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm nixkita</h1>
 <h3 align="center">A passionate security student from VA, Italy</h3>
 
-- 🔭 I’m currently working on X
+- 🔭 I’m currently working on <a href="https://github.com/nixkitax/monitorarch">MonitorArch</a>
 
 - 🌱 I’m currently learning **Next.js Framework**
 
