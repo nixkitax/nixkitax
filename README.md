@@ -3,15 +3,12 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/nixkitax/monitorarch">MonitorArch</a>
 
-- 🌱 I’m currently learning **Next.js Framework**
-
 - 💬 Ask me **anything related to my projects**
 
 - 📫 How to reach me **nicol.eeemanuele@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@lyylaaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lyylaaa_" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/nicol-emanuele-88b267269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicol emanuele" height="30" width="40" /></a>
 <a href="https://instagram.com/52nixkita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="52nixkita" height="30" width="40" /></a>
 </p>
