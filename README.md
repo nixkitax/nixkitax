@@ -4,7 +4,6 @@
 ---
 
 ### 🔎 About Me  
-- 🌍 I’ve now settled permanently in **Stockholm**  
 - 🔐 Passionate about **security, detection engineering, and applied cryptography**  
 - 🧰 I love building reliable tooling in **Rust** and **Python**  
 - 📫 Reach me at: **nicol.eeemanuele@icloud.com**
