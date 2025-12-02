@@ -35,13 +35,5 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nixkitax&show_icons=true&theme=react&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixkitax&layout=compact&theme=react&hide_border=true" height="150" />
-</p>
-
----
-
 ### ✨ Quote  
 <p align="center"><i>"Always curious, always building."</i></p>
