@@ -3,14 +3,16 @@
 
 ---
 
-### 🔎 About Me  
-- 🔐 Passionate about **security, detection engineering, and applied cryptography**  
-- 🧰 I love building reliable tooling in **Rust** and **Python**  
+### 🔎 About Me
+
+- 🔐 Passionate about **security, detection engineering, and applied cryptography**
+- 🧰 I love building reliable tooling in **Rust** and **Python**
 - 📫 Reach me at: **nicol.eeemanuele@icloud.com**
 
 ---
 
-### 🌐 Connect with Me  
+### 🌐 Connect with Me
+
 <p align="left">
 <a href="https://www.linkedin.com/in/nicol-emanuele-88b267269/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -22,7 +24,8 @@
 
 ---
 
-### 🛠️ Languages & Tools  
+### 🛠️ Languages & Tools
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40" height="40" alt="rust" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python" />
@@ -35,5 +38,6 @@
 
 ---
 
-### ✨ Quote  
+### ✨ Quote
+
 <p align="center"><i>"Always curious, always building."</i></p>
