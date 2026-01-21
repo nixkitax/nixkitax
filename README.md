@@ -7,7 +7,10 @@
      align="left"
      style="margin-top: -50px;">
 
-<ul style="margin-top: 80px">
+<ul>
+  <br>
+  <br>
+      <br> <br> 
   <li>Currently interning as a <b>Cryptography Researcher</b></li>
   <li>Passionate about <b>Applied Cryptography</b> and <b>Security</b></li>
   <li>Exploring <b>MLOps</b> and AI infrastructure</li>
