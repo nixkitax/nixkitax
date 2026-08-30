@@ -6,14 +6,13 @@
      width="300"
      align="left"
      style="margin-top: -50px;">
-
 <ul>
   <br>
   <br>
-      <br> <br> 
-  <li>Currently interning as a <b>Cryptography Researcher</b></li>
-  <li>Passionate about <b>Applied Cryptography</b> and <b>Security</b></li>
-  <li>Exploring <b>MLOps</b> and AI infrastructure</li>
+  <br><br>
+  <li>Currently working as an <b>Avionics Software Engineer</b></li>
+  <li>Passionate about <b>Embedded Systems</b>, <b>Software Engineering</b> and <b>Security</b></li>
+  <li>Exploring <b>AI</b>, <b>Cryptography</b> and <b>Low-Level Systems</b></li>
 </ul>
 
 <p><i>"Always curious, always building."</i></p>
